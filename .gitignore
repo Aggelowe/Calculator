@@ -1,0 +1,9 @@
+# eclipse
+.project
+.cproject
+.settings/
+Debug/
+
+# Output
+target/
+*.o
